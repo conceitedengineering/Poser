@@ -1,7 +1,7 @@
     @font-face {
     font-family: 'bumpysegwaytourregular';
-    src: url('https://github.com/conceitedengineering/Poser/blob/master/bumpysegwaytour-regular-webfont.woff2') format('woff2'),
-    url('https://github.com/conceitedengineering/Poser/blob/master/bumpysegwaytour-regular-webfont.woff') format('woff');
+    src: url('../bumpysegwaytour-regular-webfont.woff2') format('woff2'),
+    url('../bumpysegwaytour-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

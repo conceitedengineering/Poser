@@ -1,0 +1,42 @@
+    @font-face {
+    font-family: 'bumpysegwaytourregular';
+    src: url('/bumpysegwaytour-regular-webfont.woff2') format('woff2'),
+    url('/bumpysegwaytour-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+    }
+    body{
+    font-family: 'bumpysegwaytourregular';
+    font-weight: normal;
+    font-style: normal;
+    background-color: thistle;
+    }
+    h1 {
+    font-family: 'bumpysegwaytourregular';
+    font-weight: normal;
+    font-style: normal;
+    }
+    .poser
+    {
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    color: white;
+    border-radius: 12px;
+    border: ;
+    border-color: white;
+    padding: 1rem;
+    width: fit-content;
+    margin: 1rem;
+    position: relative;
+    }
+    .poser2
+    {
+    background-color: rgba(255,137,6,0.6);
+    border-radius: 12px;
+    border: ;
+    border-color: white;
+    padding: 1rem;
+    width: fit-content;
+    margin: 1rem;
+    position: relative;
+    }
